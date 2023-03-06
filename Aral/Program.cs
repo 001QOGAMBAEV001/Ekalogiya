@@ -16,7 +16,7 @@ namespace Aral
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FastMath());
+            Application.Run(new RunningPerson());
         }
     }
 }
